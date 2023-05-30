@@ -1,0 +1,34 @@
+{
+    "produtos": [
+    {
+    "id": 1,
+    "descricao": "madeira",
+    "estoque": 10,
+    "valor": 10,
+    "imagem": "img/produto.png"
+    },
+    {
+    "id": 2,
+    "descricao": "martelo",
+    "estoque": 10,
+    "valor": 15,
+    "imagem" : "img/produto2.png"
+    },
+    {
+    "id": 3,
+    "descricao": "serra",
+    "estoque": 10,
+    "valor": 5.25,
+    "imagem" : "img/produto3.png"
+    },
+    {
+        "id": 4,
+        "descricao": "tijolo",
+        "estoque": 10,
+        "valor": 5.25,
+        "imagem" : "img/produto4.png"
+        }
+
+    ]
+   }
+   
